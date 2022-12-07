@@ -1,0 +1,17 @@
+{
+  "name": "mailosaur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.23.4"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mailosaur": "^8.4.0"
+  }
+}
